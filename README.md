@@ -2,7 +2,8 @@
 
   - this all menu in termuxV
 
-   ![Screenshot_2023-10-18-13-33-54-61](https://github.com/IccTeam/termuxV/assets/143928335/0454a285-28d7-4988-8921-77a6d004ae87)
+   ![IMG_20231018_141550](https://github.com/IccTeam/termuxV/assets/143928335/28753090-3cd5-4414-b1e5-d5eb2743d2e0)
+
 # Tested On
 - Android, Termux
 # Install Package
